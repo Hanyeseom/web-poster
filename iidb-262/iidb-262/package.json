@@ -1,0 +1,22 @@
+{
+  "name": "iidb-262",
+  "version": "1.0.0",
+  "description": "A responsive design project with HTML and CSS.",
+  "main": "src/mid/index.html",
+  "scripts": {
+    "start": "live-server src/mid",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "responsive",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
